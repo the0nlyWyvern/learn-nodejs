@@ -1,0 +1,7 @@
+Here is the result this is first .txt file:
+Hello THis is second file: 
+world. Here is the result this is first .txt file:
+Hello THis is second file: 
+world. Here is the result this is first .txt file:
+Hello THis is second file: 
+world. 
